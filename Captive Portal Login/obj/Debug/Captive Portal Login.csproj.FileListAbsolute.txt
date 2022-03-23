@@ -1,0 +1,11 @@
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\bin\Debug\Captive Portal Login.exe.config
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\bin\Debug\Captive Portal Login.exe
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\bin\Debug\Captive Portal Login.pdb
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.csproj.AssemblyReference.cache
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive_Portal_Login.Properties.Resources.resources
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.csproj.GenerateResource.cache
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.exe
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive Portal Login.pdb
+C:\Users\Charles\source\repos\Captive Portal Login\Captive Portal Login\obj\Debug\Captive_Portal_Login.captivePortalWindow.resources
